@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\CYEH1\Documents\Visual Studio 2015\Projects\SpinningCloud\matrix_transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\CYEH1\Documents\Visual Studio 2015\Projects\SpinningCloud\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{475D076D-7FB1-3B35-A048-4151C2140770}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
